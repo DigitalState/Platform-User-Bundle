@@ -17,7 +17,7 @@
         "digitalstate/platform-data-bundle" : "dev-master"
     },
     "autoload": {
-        "psr-0": { "Ds\\Bundle\\UserBundle": "" }
+        "psr-4": { "Ds\\Bundle\\UserBundle\\": "" }
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
