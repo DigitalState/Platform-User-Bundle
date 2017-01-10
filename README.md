@@ -1,6 +1,6 @@
 # Platform-User-Bundle
 
-The User bundle extends the OroUserBundle and provides additional core user functionality. 
+The User bundle extends the OroUserBundle and provides the developers additional core user functionality. 
 
 ## Table of Contents
 
