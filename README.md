@@ -2,6 +2,9 @@
 
 The User bundle extends the OroUserBundle and provides the developers additional core user functionality. 
 
+[![Code Climate](https://codeclimate.com/github/DigitalState/Platform-User-Bundle/badges/gpa.svg)](https://codeclimate.com/github/DigitalState/Platform-User-Bundle)
+[![Test Coverage](https://codeclimate.com/github/DigitalState/Platform-User-Bundle/badges/coverage.svg)](https://codeclimate.com/github/DigitalState/Platform-User-Bundle/coverage)
+
 ## Table of Contents
 
 - [Data Resolvers](#data-resolvers)
